@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/RISC5/single_cycle_processor/single_cycle_processor.xst" -ofn "C:/Xilinx/RISC5/single_cycle_processor/single_cycle_processor.syr" 
